@@ -1,2 +1,6 @@
 # hello_world
-little description
+
+Hi everyone !
+
+I'm Nicolas, I'm 23 and I like coding
+
